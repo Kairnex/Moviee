@@ -46,7 +46,7 @@ DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://ushimotsukiroronoazo
 JOIN_REQS_DB = environ.get("JOIN_REQS_DB", DATABASE_URI2)
 
 support_chat_id = environ.get('SUPPORT_CHAT_ID')
-reqst_channel = environ.get(''-1002137058760')
+reqst_channel = environ.get('-1002137058760')
 REQST_CHANNEL = int(-1002137058760) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 NO_RESULTS_MSG = is_enabled((environ.get("NO_RESULTS_MSG", 'False')), False)
