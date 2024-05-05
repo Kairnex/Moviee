@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Contactadowbot'>Cʀɪsᴛᴏᴘʜᴇʀ</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/thereisaruleinthisjungle_bot'>ROLEX</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -15,9 +15,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. ɪᴛ ɪs ᴇᴅɪᴛᴇᴅ ᴀɴᴅ ᴍᴏᴅɪғɪᴇᴅ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/Contactadowbot">ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/thereisaruleinthisjungle_bot">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/Contactadowbot">Cʀɪsᴛᴏᴘʜᴇʀ</a></b>"""
+- <a href="https://t.me/thereisaruleinthisjungle_bot">ROLEX</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -159,9 +159,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Contactadowbot
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Contactadowbot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ROLEX
+• ᴜꜱᴇʀɴᴀᴍᴇ : @thereisaruleinthisjungle_bot
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/thereisaruleinthisjungle_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -209,10 +209,9 @@ Nᴀᴍᴇ - {}"""
 
 =========== • ✠ • ===========
 
-▫️ Cʜᴀɴɴᴇʟ : @cpx_upd
 ▫️ Cʜᴀɴɴᴇʟ : @atomicitic 
-▫️ Mᴀɪɴ ɢʀᴏᴜᴘ : @Cineplexmovreq
-▫️ Bᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ : <a href="https://t.me/+BumXwshjaE84ODdl">Tᴏᴜᴄʜ</a>
+▫️ Mᴀɪɴ ɢʀᴏᴜᴘ : @movies_nowxx
+▫️ Bᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ : <a href="https://t.me/+vJddM0EMvII5ODNl">Tᴏᴜᴄʜ</a>
 
 🎗️ ʝσιи 🎗️ ѕнαяє 🎗️ ѕυρρσят 🎗️
 =========== • ✠ • ===========</b>"""
