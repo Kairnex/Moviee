@@ -20,7 +20,7 @@ SESSION = environ.get('SESSION', 'Media_search')
 
 API_ID = int(environ['28196711'])
 API_HASH = environ['a8a23bffb12aae7a4c72fa2b4cd538a1']
-BOT_TOKEN = environ['7052361047:AAHvIruMvzcycnYexHeKQuo6s_DEmX-ofMk']
+BOT_TOKEN = environ['7770072777:AAHcXrIxHfBjKVvlKs1x7-r5qeBjBGDO5r4']
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -48,9 +48,9 @@ REQ_CHANNEL = (int(REQ_CHANNEL) if REQ_CHANNEL and id_pattern.search(REQ_CHANNEL
 DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://Movie:movie2@movie2.nwujqxk.mongodb.net/?retryWrites=true&w=majority&appName=Movie2")
 JOIN_REQS_DB = environ.get("JOIN_REQS_DB", DATABASE_URI2)
 
-support_chat_id = environ.get('-1001822981739')
-reqst_channel = environ.get('-1001839879794')
-REQST_CHANNEL = int(-1001839879794) if reqst_channel and id_pattern.search(reqst_channel) else None
+support_chat_id = environ.get('-1002083345153')
+reqst_channel = environ.get('-1002083345153')
+REQST_CHANNEL = int(-1002083345153) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 NO_RESULTS_MSG = is_enabled((environ.get("NO_RESULTS_MSG", 'False')), False)
 
@@ -75,7 +75,7 @@ PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/TWC_CHATS')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+w8q9ERhp4DpmZTll')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '--1002032637762'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002083345153'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/TWC_CHATS')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
@@ -89,7 +89,7 @@ LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False")
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
-FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002002005430')).split()]
+FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002083345153')).split()]
 MELCOW_NEW_USERS = is_enabled((environ.get('MELCOW_NEW_USERS', "True")), True)
 PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "True")), True)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "False")), False)
