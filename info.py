@@ -46,7 +46,7 @@ auth_channel = environ.get('AUTH_CHANNEL', '-1001839879794')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 REQ_CHANNEL = environ.get("REQ_CHANNEL", '-1002004462969')
 REQ_CHANNEL = (int(REQ_CHANNEL) if REQ_CHANNEL and id_pattern.search(REQ_CHANNEL) else False) if REQ_CHANNEL is not None else None
-DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://Movie:movie2@movie2.nwujqxk.mongodb.net/?retryWrites=true&w=majority&appName=Movie2")
+DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://codexkairnex:gm6xSxXfRkusMIug@cluster0.bplk1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 JOIN_REQS_DB = environ.get("JOIN_REQS_DB", DATABASE_URI2)
 
 support_chat_id = environ.get('-1002083345153')
@@ -56,8 +56,8 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = is_enabled((environ.get("NO_RESULTS_MSG", 'False')), False)
 
 # MongoDB information
-SECONDDB_URI = environ.get('SECONDDB_URI', "mongodb+srv://Pandababy2:pandababy2.0@panda2.etq3ozy.mongodb.net/?retryWrites=true&w=majority&appName=Panda2")
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Movie:Movie1@movie.xaeqmqv.mongodb.net/?retryWrites=true&w=majority&appName=Movie")
+SECONDDB_URI = environ.get('SECONDDB_URI', "mongodb+srv://codexkairnex:gm6xSxXfRkusMIug@cluster0.bplk1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://codexkairnex:gm6xSxXfRkusMIug@cluster0.bplk1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Movie1")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
